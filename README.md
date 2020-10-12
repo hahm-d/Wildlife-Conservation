@@ -1,7 +1,7 @@
-##About: 
+## About: 
 Reactive website to find more information on endangered species around the world. React-map-gl used for global map to pin coordinates.
 
-##Tech: 
+## Tech: 
 React, Ruby on Rails, Auth, PostgreSQL, React-map-gl, SemanticUI
 
 
